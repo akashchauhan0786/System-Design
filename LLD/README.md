@@ -1,0 +1,3 @@
+# Low Level Design
+## OOPS Concepts
+  https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/
