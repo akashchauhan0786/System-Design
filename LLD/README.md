@@ -8,4 +8,4 @@
   ## Introduction 
    - https://refactoring.guru/design-patterns/classification
   # Creational patterns
-  - [Introduction](https://sourcemaking.com/design_patterns/creational_patterns)
+  - [Introduction](https://www.javatpoint.com/creational-design-patterns)
