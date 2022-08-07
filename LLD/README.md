@@ -9,5 +9,5 @@
    - https://refactoring.guru/design-patterns/classification
   # Creational patterns
   - [Introduction](https://www.javatpoint.com/creational-design-patterns)
-  - [Factory Method Pattern](https://www.javatpoint.com/factory-method-design-pattern)
+  - [Factory Method Pattern](https://www.tutorialspoint.com/design_pattern/factory_pattern.htm)
   - [Abstract Factory Pattern](https://www.javatpoint.com/abstract-factory-pattern)
