@@ -13,12 +13,13 @@ class Ostrich extends Bird {
     }
 }
 
-interface Flyable {
-    void fly();
+class Bird {
+    void eat() {}
 }
 
-class Eagle implements Flyable {
-    public void fly() {
-        System.out.println("Eagle flies");
-    }
+class FlyingBird extends Bird {
+    void fly() {}
 }
+
+class Sparrow extends FlyingBird {}
+class Ostrich extends Bird {}  // Ostrich has no fly method
