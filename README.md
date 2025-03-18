@@ -8,7 +8,7 @@ This roadmap is crafted to help you learn **Low-Level Design (LLD)** step-by-ste
 
 | Day | Topic | Link |
 |------|-----------------------------|------------------------------|
-| Day 1 | OOP Recap + SOLID Principles (Combined) | [Day01_OOP_SOLID/README.md](./Day01_OOP_SOLID/README.md) |
+| Day 1 | OOP Recap + SOLID Principles (Combined) | [Day01_OOP_SOLID/README.md](./Day1-OOP-SOLID-Java/README.md) |
 | Day 2 | Interface, Abstract Class, IS-A vs HAS-A | [Day02_Interface_Abstract/README.md](./Day02_Interface_Abstract/README.md) |
 | Day 3 | SRP + OCP + LSP Practice Examples in Java | [Day03_SRP_OCP_LSP/README.md](./Day03_SRP_OCP_LSP/README.md) |
 | Day 4 | Class Relationships – Association, Aggregation, Composition | [Day04_ClassRelationships/README.md](./Day04_ClassRelationships/README.md) |
