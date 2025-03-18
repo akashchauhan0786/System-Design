@@ -4,72 +4,29 @@ This roadmap is crafted to help you learn **Low-Level Design (LLD)** step-by-ste
 
 ---
 
-## 📅 Day-wise Breakdown (28 Days)
+## 📅 Day-wise Breakdown (Java-Focused)
 
-| Day | Topic |
-|------|-----------------------------|
-| Day 1 | OOP Recap + SOLID Principles in Java |
-| Day 2 | Inheritance, Polymorphism, Abstraction, Encapsulation |
-| Day 3 | SOLID Principles Deep Dive with Java Examples |
-| Day 4 | Interface, Abstract Class, IS-A vs HAS-A |
-| Day 5 | SRP + OCP + LSP Practice Examples in Java |
-| Day 6 | Class Relationships – Association, Aggregation, Composition in Java |
-| Day 7 | UML Class Diagrams – Draw Relationships with Examples |
-| Day 8 | LLD Project #1 – Library Management System Design |
-| Day 9 | Implementing Library System Classes in Java |
-| Day 10 | LLD Project #2 – Parking Lot System Design |
-| Day 11 | Parking Lot Implementation – Core Classes & Methods |
-| Day 12 | Introduction to Design Patterns – Why & When |
-| Day 13 | Factory Pattern + Singleton Pattern (with Java Code) |
-| Day 14 | Strategy Pattern + Builder Pattern (with Java Code) |
-| Day 15 | LLD Project #3 – BookMyShow (Movie Booking System) |
-| Day 16 | BookMyShow – Implementation Part 1 (Class Design + Booking Flow) |
-| Day 17 | BookMyShow – Implementation Part 2 (Seat Lock, Payments, etc.) |
-| Day 18 | Observer Pattern + Decorator Pattern (with Java Examples) |
-| Day 19 | Builder Pattern + Real-World Usage (Immutable Objects in Java) |
-| Day 20 | LLD Project #4 – Elevator System (Design + Core Methods) |
-| Day 21 | LLD Project #5 – Ride Sharing App (Uber/Ola Design) |
-| Day 22 | LLD Project #6 – Food Delivery App (Zomato/Swiggy Design) |
-| Day 23 | Refactoring Old Designs – Applying Patterns |
-| Day 24 | Writing Unit Test Cases for LLD Projects |
-| Day 25 | Uploading Projects to GitHub + README writing |
-| Day 26 | Mock Interview #1 – Design a Complete System from Scratch |
-| Day 27 | Mock Interview #2 – Design a Scalable System |
-| Day 28 | Final Recap – Quick Revision Sheet + Notes |
-
----
-
-## 📦 Topics Covered
-- Object-Oriented Programming (OOP)
-- SOLID Principles
-- UML Class Diagrams
-- Class Relationships (IS-A, HAS-A, Composition, Aggregation, Association)
-- Design Patterns (Factory, Singleton, Strategy, Observer, Builder, Decorator)
-- LLD System Design Projects (Parking Lot, BookMyShow, Elevator, Uber, Zomato)
-- Java-based Implementation & Clean Code Practices
-- Unit Testing and GitHub Publishing
-
----
-
-## 💡 Tips
-- Practice each topic with hands-on code.
-- Use UML diagram tools like Draw.io or Lucidchart.
-- Create your own Java mini-projects after each week.
-- Maintain a GitHub repo to showcase your progress.
-
----
-
-## 🔗 Useful Tools
-- [draw.io (UML Diagrams)](https://app.diagrams.net/)
-- [GeeksForGeeks – OOP Concepts](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
-- [Refactoring Guru – Design Patterns](https://refactoring.guru/design-patterns)
-
----
-
-## 👨‍💻 Author
-> Created and Maintained by *[Your Name]*  
-> Feel free to contribute or raise issues for improvements.
-
----
-
-## 📁 Folder Structure Suggestion
+| Day | Topic | Link |
+|------|-----------------------------|------------------------------|
+| Day 1 | OOP Recap + SOLID Principles (Combined) | [Day01_OOP_SOLID/README.md](./Day01_OOP_SOLID/README.md) |
+| Day 2 | Interface, Abstract Class, IS-A vs HAS-A | [Day02_Interface_Abstract/README.md](./Day02_Interface_Abstract/README.md) |
+| Day 3 | SRP + OCP + LSP Practice Examples in Java | [Day03_SRP_OCP_LSP/README.md](./Day03_SRP_OCP_LSP/README.md) |
+| Day 4 | Class Relationships – Association, Aggregation, Composition | [Day04_ClassRelationships/README.md](./Day04_ClassRelationships/README.md) |
+| Day 5 | UML Class Diagrams – Draw Relationships with Examples | [Day05_UML_Diagrams/README.md](./Day05_UML_Diagrams/README.md) |
+| Day 6 | LLD Project #1 – Library Management System Design | [Day06_LibraryManagement/README.md](./Day06_LibraryManagement/README.md) |
+| Day 7 | Implementing Library System Classes in Java | [Day07_LibraryImplementation/README.md](./Day07_LibraryImplementation/README.md) |
+| Day 8 | LLD Project #2 – Parking Lot System Design | [Day08_ParkingLotDesign/README.md](./Day08_ParkingLotDesign/README.md) |
+| Day 9 | Parking Lot Implementation – Core Classes & Methods | [Day09_ParkingLotImplementation/README.md](./Day09_ParkingLotImplementation/README.md) |
+| Day 10 | Introduction to Design Patterns – Why & When | [Day10_DesignPatternsIntro/README.md](./Day10_DesignPatternsIntro/README.md) |
+| Day 11 | Factory Pattern + Singleton Pattern | [Day11_Factory_Singleton/README.md](./Day11_Factory_Singleton/README.md) |
+| Day 12 | Strategy Pattern + Builder Pattern | [Day12_Strategy_Builder/README.md](./Day12_Strategy_Builder/README.md) |
+| Day 13 | LLD Project #3 – BookMyShow (Movie Booking System) | [Day13_BookMyShowDesign/README.md](./Day13_BookMyShowDesign/README.md) |
+| Day 14 | BookMyShow – Implementation Part 1 | [Day14_BookMyShow_Part1/README.md](./Day14_BookMyShow_Part1/README.md) |
+| Day 15 | BookMyShow – Implementation Part 2 | [Day15_BookMyShow_Part2/README.md](./Day15_BookMyShow_Part2/README.md) |
+| Day 16 | Observer Pattern + Decorator Pattern | [Day16_Observer_Decorator/README.md](./Day16_Observer_Decorator/README.md) |
+| Day 17 | Builder Pattern – Real-World Usage | [Day17_AdvancedBuilderPattern/README.md](./Day17_AdvancedBuilderPattern/README.md) |
+| Day 18 | LLD Project #4 – Elevator System | [Day18_ElevatorSystem/README.md](./Day18_ElevatorSystem/README.md) |
+| Day 19 | LLD Project #5 – Ride Sharing App (Uber/Ola) | [Day19_RideSharing/README.md](./Day19_RideSharing/README.md) |
+| Day 20 | LLD Project #6 – Food Delivery App (Zomato/Swiggy) | [Day20_FoodDelivery/README.md](./Day20_FoodDelivery/README.md) |
+| Day 21 | Refactoring Old Designs – Applying Patterns | [Day21_Refactoring/README.md](./Day21_Refactoring/README.md) |
+| Day 22 | Writing Unit Test Cases for LLD Projects | [Day22
